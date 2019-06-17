@@ -16,4 +16,7 @@ public class Base {
 	public void fun4(){
 		System.out.println("ÄãÃÇºÅ");
 	}
+	public void fun5(){
+		System.out.println("ÄãÃÇºÅ");
+	}
 }
