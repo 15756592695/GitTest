@@ -9,5 +9,8 @@ public class Base {
 	}
 	public void fun2(){
 		System.out.println("ÄãÃÇºÅ");
+	}	
+	public void fun3(){
+		System.out.println("ÄãÃÇºÅ");
 	}
 }
