@@ -7,4 +7,7 @@ public class Base {
 	public void fun(){
 		System.out.println("ÄãÃÇºÅ");
 	}
+	public void fun2(){
+		System.out.println("ÄãÃÇºÅ");
+	}
 }
